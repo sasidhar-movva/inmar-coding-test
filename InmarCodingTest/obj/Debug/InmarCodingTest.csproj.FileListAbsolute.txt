@@ -1,0 +1,7 @@
+C:\Repos\inmar-coding-test\InmarCodingTest\bin\Debug\InmarCodingTest.exe.config
+C:\Repos\inmar-coding-test\InmarCodingTest\bin\Debug\InmarCodingTest.exe
+C:\Repos\inmar-coding-test\InmarCodingTest\bin\Debug\InmarCodingTest.pdb
+C:\Repos\inmar-coding-test\InmarCodingTest\obj\Debug\InmarCodingTest.csproj.AssemblyReference.cache
+C:\Repos\inmar-coding-test\InmarCodingTest\obj\Debug\InmarCodingTest.csproj.CoreCompileInputs.cache
+C:\Repos\inmar-coding-test\InmarCodingTest\obj\Debug\InmarCodingTest.exe
+C:\Repos\inmar-coding-test\InmarCodingTest\obj\Debug\InmarCodingTest.pdb

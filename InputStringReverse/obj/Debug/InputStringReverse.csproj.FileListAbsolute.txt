@@ -1,0 +1,7 @@
+C:\Repos\inmar-coding-test\InputStringReverse\bin\Debug\InputStringReverse.exe.config
+C:\Repos\inmar-coding-test\InputStringReverse\bin\Debug\InputStringReverse.exe
+C:\Repos\inmar-coding-test\InputStringReverse\bin\Debug\InputStringReverse.pdb
+C:\Repos\inmar-coding-test\InputStringReverse\obj\Debug\InputStringReverse.csproj.AssemblyReference.cache
+C:\Repos\inmar-coding-test\InputStringReverse\obj\Debug\InputStringReverse.csproj.CoreCompileInputs.cache
+C:\Repos\inmar-coding-test\InputStringReverse\obj\Debug\InputStringReverse.exe
+C:\Repos\inmar-coding-test\InputStringReverse\obj\Debug\InputStringReverse.pdb
