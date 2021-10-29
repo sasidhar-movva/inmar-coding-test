@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Part2MvcAndOops.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class OfferController : ControllerBase
     {
@@ -22,6 +22,7 @@ namespace Part2MvcAndOops.Controllers
 
 
         [HttpGet]
+        [Route("getOffers")]
         public async Task<List<Offer>> GetOffers()
         {
             var result = await _offerService.GetTodaysOffers();
@@ -30,6 +31,8 @@ namespace Part2MvcAndOops.Controllers
 
 
         [HttpGet]
+        [Route("getproducts")]
+
         public async Task<List<Product>> GetAllProducts()
         {
             var result = await _offerService.GetAllProducts();
